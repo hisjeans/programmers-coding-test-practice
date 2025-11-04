@@ -1,14 +1,10 @@
 # programmers-coding-test-practice
 프로그래머스 코딩테스트 입문 문제 풀이 모음
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hisjeans)](https://solved.ac/hisjeans)
-
 프로그래머스 코딩테스트 입문 레벨 문제들을 풀어나가는 저장소입니다.
 
 ## 📚 목차
 
 - [소개](#소개)
-- [진행 상황](#진행-상황)
 - [폴더 구조](#폴더-구조)
 - [문제 목록](#문제-목록)
 
@@ -17,13 +13,6 @@
 - **목표**: 프로그래머스 코딩테스트 입문 레벨 완료
 - **언어**: Java
 - **기간**: 2025.11.03 ~ 진행중
-
-## 진행 상황
-
-![Progress](https://progress-bar.dev/0/?scale=181&title=solved&width=500&color=babaca&suffix=/181)
-
-- **전체 문제 수**: 181개
-
 
 ## 폴더 구조
 
