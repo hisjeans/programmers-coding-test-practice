@@ -18,3 +18,20 @@ class Solution {
         return answer;
     }
 }
+
+/* 다른사람의 풀이
+
+        int mother = num1 * num2; 분모
+        int son1 = num1 * denum2; 첫 번째 분자
+        int son2 = num2 * denum1; 두 번째 분자
+        int totalSon = son1 + son2; 첫 번째 분자, 두 번째 분자의 합
+        for(int i = mother; i >= 1; i--){ 내림차순으로 큰 수부터 공약수 찾기
+            if(totalSon % i == 0 && mother % i == 0){
+                totalSon /= i; 즉시 나누기
+                mother /= i;
+            }
+        }
+        int[] answer = {totalSon, mother};
+        return answer;
+
+*/
